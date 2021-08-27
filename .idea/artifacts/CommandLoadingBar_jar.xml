@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CommandLoadingBar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandLoadingBar_jar</output-path>
+    <root id="archive" name="CommandLoadingBar.jar">
+      <element id="module-output" name="CommandLoadingBar" />
+    </root>
+  </artifact>
+</component>
